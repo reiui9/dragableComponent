@@ -1,0 +1,10 @@
+.draggable-container {
+	width: 100vw;
+	height: 100vh;
+	background-color: antiquewhite;
+	position: relative;
+}
+
+.draggable-component {
+	position: absolute;
+}
